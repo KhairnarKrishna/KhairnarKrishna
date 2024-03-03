@@ -1,4 +1,4 @@
-# 💫 About Me:
+## About Me:
 A passionate Full Stack Python Developer. <br>Currently working at Tata Consultancy Services, Pune.<br>Interested in Web Development & Data Science.
 
 
