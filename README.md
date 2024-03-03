@@ -3,7 +3,7 @@ A passionate Full Stack Python Developer. <br>Currently working at Tata Consulta
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishna.khairnar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Krishna-Khairnar) [![Leetcode Stats](https://leetcode.com/KrishnaK7)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishna.khairnar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Krishna-Khairnar) [![Leetcode Stats](https://camo.githubusercontent.com/f498ae7b0519d2e92a613f1e3f04e84c6ddb621a89fef7e0099b91eab253a895/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c656574636f64652d4646414534323f6c6f676f3d4c656574636f6465266c6f676f436f6c6f723d626c61636b)](https://leetcode.com/KrishnaK7)
 
 
 # 💻 Tech Stack:
