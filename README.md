@@ -31,7 +31,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 
 ### DATA SCRAPING : 
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23ffffff.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=black) 
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-F5788D.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=black) 
 
 ### DEPLOYMENT : 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
