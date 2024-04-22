@@ -36,7 +36,7 @@
 
 ### DEPLOYMENT : 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![AWS-EC2](https://img.shields.io/badge/ec2-%23013243.svg?style=for-the-badge&logo=ec2&logoColor=white) 
+![AWS EC2](https://img.shields.io/badge/aws-ec2-%23013243.svg?style=for-the-badge&logo=aws-ec2&logoColor=white) 
 ## LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/KrishnaK7?theme=light,unicorn)
 
