@@ -38,10 +38,7 @@
 ![Apache WAMP](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
 ### CLOUD SERVICES:
-![AWS EMR](https://img.shields.io/badge/aws_emr-%23013243.svg?style=for-the-badge&logo=aws_emr&logoColor=white) 
-![AWS S3](https://img.shields.io/badge/aws_s3-%23013243.svg?style=for-the-badge&logo=aws_s3&logoColor=white) 
-![AWS ATHENA](https://img.shields.io/badge/aws_athena-%23013243.svg?style=for-the-badge&logo=aws_athena&logoColor=white) 
-![AWS LAMBDA](https://img.shields.io/badge/aws_lambda-%23013243.svg?style=for-the-badge&logo=aws_lambda&logoColor=white) 
+![AWS](https://img.shields.io/badge/aws-%23013243.svg?style=for-the-badge&logo=aws&logoColor=white) 
 
 ## LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/KrishnaK7?theme=light,unicorn)
