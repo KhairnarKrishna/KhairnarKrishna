@@ -38,9 +38,9 @@
 ![Apache WAMP](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
 ### CLOUD SERVICES:
-![AWS EMR](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_ec2&logoColor=white) 
-![AWS S3](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_ec2&logoColor=white) 
-![AWS ATHENA](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_ec2&logoColor=white) 
+![AWS EMR](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_emr&logoColor=white) 
+![AWS S3](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_s3&logoColor=white) 
+![AWS ATHENA](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_athena&logoColor=white) 
 ![AWS EC2](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_ec2&logoColor=white) 
 
 ## LeetCode Stats:
