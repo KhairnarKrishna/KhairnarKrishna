@@ -35,8 +35,14 @@
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-F5788D.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=black) 
 
 ### DEPLOYMENT : 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Apache WAMP](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+
+### CLOUD SERVICES:
+![AWS EMR](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_ec2&logoColor=white) 
+![AWS S3](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_ec2&logoColor=white) 
+![AWS ATHENA](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_ec2&logoColor=white) 
 ![AWS EC2](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_ec2&logoColor=white) 
+
 ## LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/KrishnaK7?theme=light,unicorn)
 
