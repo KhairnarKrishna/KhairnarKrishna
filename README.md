@@ -9,9 +9,9 @@
 ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54)
 
 ### BIG DATA : 
-![PySpark](https://img.shields.io/badge/pyspark-%23150458.svg?style=for-the-badge&logo=pyspark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/hadoop-%23150458.svg?style=for-the-badge&logo=hadoop&logoColor=white) 
-![DataWarehouse](https://img.shields.io/badge/data_warehouse%23150458.svg?style=for-the-badge&logo=data_warehouse&logoColor=white) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![ETL](https://img.shields.io/badge/etl-%23323330.svg?style=for-the-badge&logo=etl&logoColor=white) 
 ![ELT](https://img.shields.io/badge/elt-%23323330.svg?style=for-the-badge&logo=elt&logoColor=white) 
 
