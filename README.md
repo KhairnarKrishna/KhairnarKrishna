@@ -40,12 +40,16 @@
 ### DATA SCRAPING : 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-F5788D.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=black) 
 
-### DEPLOYMENT : 
+### DEPLOYMENT (CI/CD) : 
 ![Apache WAMP](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%23D42029.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Github](https://img.shields.io/badge/github-%23D42029.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23D42029.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Apache-SVN](https://img.shields.io/badge/svn-%23D42029.svg?style=for-the-badge&logo=svn&logoColor=white) 
 
 ### CLOUD SERVICES:
 ![AWS-s3](https://img.shields.io/badge/aws_s3-%23013243.svg?style=for-the-badge&logo=aws_s3&logoColor=white) 
-![AWS-Lambda](https://img.shields.io/badge/aws_lambda-%23013243.svg?style=for-the-badge&logo=aws_lambda&logoColor=white) 
+![AWS-Lambda](https://img.shields.io/badge/awslambda-%23013243.svg?style=for-the-badge&logo=awslambda&logoColor=white) 
 ![AWS-SNS](https://img.shields.io/badge/aws_sns-%23013243.svg?style=for-the-badge&logo=aws_sns&logoColor=white) 
 ![AWS-EC2](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_ec2&logoColor=white) 
 
