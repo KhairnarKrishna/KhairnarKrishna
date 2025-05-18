@@ -11,7 +11,7 @@
 ### BIG DATA : 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E4405F?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-%23E4405F?style=for-the-badge&logo=apachehive&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-%23E34F26?style=for-the-badge&logo=apachehive&logoColor=black)
 ![ETL](https://img.shields.io/badge/etl-%23323330.svg?style=for-the-badge&logo=etl&logoColor=white) 
 ![ELT](https://img.shields.io/badge/elt-%23323330.svg?style=for-the-badge&logo=elt&logoColor=white) 
 
