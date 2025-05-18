@@ -47,7 +47,7 @@
 ![AWS-s3](https://img.shields.io/badge/awss3-%23013243.svg?style=for-the-badge&logo=awss3&logoColor=white) 
 ![AWS-Lambda](https://img.shields.io/badge/awslambda-%23013243.svg?style=for-the-badge&logo=awslambda&logoColor=white) 
 ![AWS-SNS](https://img.shields.io/badge/awssns-%23013243.svg?style=for-the-badge&logo=awssns&logoColor=white) 
-![AWS-EC2](https://img.shields.io/badge/awsec2-%23013243.svg?style=for-the-badge&logo=awsec2&logoColor=white) 
+![AWS-EC2](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_ec2&logoColor=white) 
 
 ## LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/KrishnaK7?theme=light,unicorn)
