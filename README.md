@@ -9,7 +9,7 @@
 ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54)
 
 ### BIG DATA : 
-![Spark](https://img.shields.io/badge/spark-%23150458.svg?style=for-the-badge&logo=spark&logoColor=white) 
+![PySpark](https://img.shields.io/badge/pyspark-%23150458.svg?style=for-the-badge&logo=pyspark&logoColor=white) 
 ![AWS-Redshift](https://img.shields.io/badge/aws_redshift-%23E34F26.svg?style=for-the-badge&logo=aws_redshift&logoColor=white) 
 ![AWS-EMR](https://img.shields.io/badge/aws_EMR-%230769AD.svg?style=for-the-badge&logo=aws_emr&logoColor=white) 
 ![AWS-Athena](https://img.shields.io/badge/aws_athena-%23E34F26.svg?style=for-the-badge&logo=aws_athena&logoColor=white) 
