@@ -16,9 +16,9 @@
 ![ELT](https://img.shields.io/badge/elt-%23323330.svg?style=for-the-badge&logo=elt&logoColor=white) 
 
 ### CLOUD SERVICES:
-![AWS-Redshift](https://img.shields.io/badge/aws_redshift-%23E34F26.svg?style=for-the-badge&logo=aws_redshift&logoColor=white) 
-![AWS-EMR](https://img.shields.io/badge/aws_EMR-%230769AD.svg?style=for-the-badge&logo=aws_emr&logoColor=white) 
-![AWS-Athena](https://img.shields.io/badge/aws_athena-%23E34F26.svg?style=for-the-badge&logo=aws_athena&logoColor=white) 
+![AWS-Redshift](https://img.shields.io/badge/aws_redshift-%23013243.svg?style=for-the-badge&logo=aws_redshift&logoColor=white) 
+![AWS-EMR](https://img.shields.io/badge/aws_EMR-%23013243.svg?style=for-the-badge&logo=aws_emr&logoColor=white) 
+![AWS-Athena](https://img.shields.io/badge/aws_athena-%23013243.svg?style=for-the-badge&logo=aws_athena&logoColor=white) 
 ![AWS-s3](https://img.shields.io/badge/aws_s3-%23013243.svg?style=for-the-badge&logo=aws_s3&logoColor=white) 
 ![AWS-Lambda](https://img.shields.io/badge/awslambda-%23013243.svg?style=for-the-badge&logo=awslambda&logoColor=white) 
 ![AWS-SNS](https://img.shields.io/badge/aws_sns-%23013243.svg?style=for-the-badge&logo=aws_sns&logoColor=white) 
