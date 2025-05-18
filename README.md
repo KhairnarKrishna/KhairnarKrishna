@@ -13,6 +13,9 @@
 ![AWS-Redshift](https://img.shields.io/badge/aws_redshift-%23E34F26.svg?style=for-the-badge&logo=aws_redshift&logoColor=white) 
 ![AWS-EMR](https://img.shields.io/badge/aws_EMR-%230769AD.svg?style=for-the-badge&logo=aws_emr&logoColor=white) 
 ![AWS-Athena](https://img.shields.io/badge/aws_athena-%23E34F26.svg?style=for-the-badge&logo=aws_athena&logoColor=white) 
+![ETL](https://img.shields.io/badge/etl-%23E34F26.svg?style=for-the-badge&logo=etl&logoColor=white) 
+![ELT](https://img.shields.io/badge/elt-%23E34F26.svg?style=for-the-badge&logo=elt&logoColor=white) 
+
 
 ### FRONTEND :
 ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white) 
