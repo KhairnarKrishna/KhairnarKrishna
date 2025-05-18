@@ -10,7 +10,8 @@
 
 ### BIG DATA : 
 ![Spark](https://img.shields.io/badge/spark-%23150458.svg?style=for-the-badge&logo=spark&logoColor=white) 
-![AWS-Redshift](https://img.shields.io/badge/aws-redshift-%23E34F26.svg?style=for-the-badge&logo=aws-redshift&logoColor=white) 
+![AWS-Redshift](https://img.shields.io/badge/redshift-%23E34F26.svg?style=for-the-badge&logo=redshift&logoColor=white) 
+![AWS-EMR](https://img.shields.io/badge/EMR-%230769AD.svg?style=for-the-badge&logo=emr&logoColor=white) 
 
 
 ### FRONTEND :
