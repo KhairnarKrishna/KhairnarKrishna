@@ -42,9 +42,9 @@
 
 ### DEPLOYMENT (CI/CD) : 
 ![Apache WAMP](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%23D42029.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Github](https://img.shields.io/badge/github-%23D42029.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23D42029.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%23092E20.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23316192.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Apache-SVN](https://img.shields.io/badge/svn-%23D42029.svg?style=for-the-badge&logo=svn&logoColor=white) 
 
 ### CLOUD SERVICES:
