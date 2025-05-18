@@ -10,9 +10,9 @@
 
 ### BIG DATA : 
 ![Spark](https://img.shields.io/badge/spark-%23150458.svg?style=for-the-badge&logo=spark&logoColor=white) 
-![AWS-Redshift](https://img.shields.io/badge/redshift-%23E34F26.svg?style=for-the-badge&logo=redshift&logoColor=white) 
-![AWS-EMR](https://img.shields.io/badge/EMR-%230769AD.svg?style=for-the-badge&logo=emr&logoColor=white) 
-![AWS-Athena](https://img.shields.io/badge/athena-%23E34F26.svg?style=for-the-badge&logo=athena&logoColor=white) 
+![AWS-Redshift](https://img.shields.io/badge/aws_redshift-%23E34F26.svg?style=for-the-badge&logo=aws_redshift&logoColor=white) 
+![AWS-EMR](https://img.shields.io/badge/aws_EMR-%230769AD.svg?style=for-the-badge&logo=aws_emr&logoColor=white) 
+![AWS-Athena](https://img.shields.io/badge/aws_athena-%23E34F26.svg?style=for-the-badge&logo=aws_athena&logoColor=white) 
 
 ### FRONTEND :
 ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white) 
@@ -44,9 +44,9 @@
 ![Apache WAMP](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
 ### CLOUD SERVICES:
-![AWS-s3](https://img.shields.io/badge/awss3-%23013243.svg?style=for-the-badge&logo=awss3&logoColor=white) 
-![AWS-Lambda](https://img.shields.io/badge/awslambda-%23013243.svg?style=for-the-badge&logo=awslambda&logoColor=white) 
-![AWS-SNS](https://img.shields.io/badge/awssns-%23013243.svg?style=for-the-badge&logo=awssns&logoColor=white) 
+![AWS-s3](https://img.shields.io/badge/aws_s3-%23013243.svg?style=for-the-badge&logo=aws_s3&logoColor=white) 
+![AWS-Lambda](https://img.shields.io/badge/aws_lambda-%23013243.svg?style=for-the-badge&logo=aws_lambda&logoColor=white) 
+![AWS-SNS](https://img.shields.io/badge/aws_sns-%23013243.svg?style=for-the-badge&logo=aws_sns&logoColor=white) 
 ![AWS-EC2](https://img.shields.io/badge/aws_ec2-%23013243.svg?style=for-the-badge&logo=aws_ec2&logoColor=white) 
 
 ## LeetCode Stats:
