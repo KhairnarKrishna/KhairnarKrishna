@@ -9,10 +9,9 @@
 ![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54)
 
 ### BIG DATA : 
-![PySpark](https://img.shields.io/badge/pyspark-%23150458.svg?style=for-the-badge&logo=pyspark&logoColor=white) 
-![AWS-Redshift](https://img.shields.io/badge/aws_redshift-%23E34F26.svg?style=for-the-badge&logo=aws_redshift&logoColor=white) 
-![AWS-EMR](https://img.shields.io/badge/aws_EMR-%230769AD.svg?style=for-the-badge&logo=aws_emr&logoColor=white) 
-![AWS-Athena](https://img.shields.io/badge/aws_athena-%23E34F26.svg?style=for-the-badge&logo=aws_athena&logoColor=white) 
+![PySpark](https://img.shields.io/badge/pyspark-%23150458.svg?style=for-the-badge&logo=pyspark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/hadoop-%23150458.svg?style=for-the-badge&logo=hadoop&logoColor=white) 
+![DataWarehouse](https://img.shields.io/badge/data_warehouse%23150458.svg?style=for-the-badge&logo=data_warehouse&logoColor=white) 
 ![ETL](https://img.shields.io/badge/etl-%23323330.svg?style=for-the-badge&logo=etl&logoColor=white) 
 ![ELT](https://img.shields.io/badge/elt-%23323330.svg?style=for-the-badge&logo=elt&logoColor=white) 
 
@@ -51,6 +50,9 @@
 ![Apache-SVN](https://img.shields.io/badge/svn-%23D42029.svg?style=for-the-badge&logo=svn&logoColor=white) 
 
 ### CLOUD SERVICES:
+![AWS-Redshift](https://img.shields.io/badge/aws_redshift-%23E34F26.svg?style=for-the-badge&logo=aws_redshift&logoColor=white) 
+![AWS-EMR](https://img.shields.io/badge/aws_EMR-%230769AD.svg?style=for-the-badge&logo=aws_emr&logoColor=white) 
+![AWS-Athena](https://img.shields.io/badge/aws_athena-%23E34F26.svg?style=for-the-badge&logo=aws_athena&logoColor=white) 
 ![AWS-s3](https://img.shields.io/badge/aws_s3-%23013243.svg?style=for-the-badge&logo=aws_s3&logoColor=white) 
 ![AWS-Lambda](https://img.shields.io/badge/awslambda-%23013243.svg?style=for-the-badge&logo=awslambda&logoColor=white) 
 ![AWS-SNS](https://img.shields.io/badge/aws_sns-%23013243.svg?style=for-the-badge&logo=aws_sns&logoColor=white) 
