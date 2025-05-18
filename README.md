@@ -14,7 +14,6 @@
 ![AWS-EMR](https://img.shields.io/badge/EMR-%230769AD.svg?style=for-the-badge&logo=emr&logoColor=white) 
 ![AWS-Athena](https://img.shields.io/badge/athena-%23E34F26.svg?style=for-the-badge&logo=athena&logoColor=white) 
 
-
 ### FRONTEND :
 ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -45,7 +44,10 @@
 ![Apache WAMP](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
 ### CLOUD SERVICES:
-![AWS](https://img.shields.io/badge/aws-%23013243.svg?style=for-the-badge&logo=aws&logoColor=white) 
+![AWS-s3](https://img.shields.io/badge/awss3-%23013243.svg?style=for-the-badge&logo=awss3&logoColor=white) 
+![AWS-Lambda](https://img.shields.io/badge/awslambda-%23013243.svg?style=for-the-badge&logo=awslambda&logoColor=white) 
+![AWS-SNS](https://img.shields.io/badge/awssns-%23013243.svg?style=for-the-badge&logo=awssns&logoColor=white) 
+![AWS-EC2](https://img.shields.io/badge/awsec2-%23013243.svg?style=for-the-badge&logo=awsec2&logoColor=white) 
 
 ## LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/KrishnaK7?theme=light,unicorn)
